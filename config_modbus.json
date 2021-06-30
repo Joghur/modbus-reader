@@ -1,0 +1,6 @@
+{
+    "MODBUS_SERVER_IP" : "<IP-address>",
+    "MODBUS_SERVER_PORT" : 60000,
+    "HOLDING_REGISTER_MIN": 0,
+    "HOLDING_REGISTER_MAX": 100
+}

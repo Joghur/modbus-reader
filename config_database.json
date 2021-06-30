@@ -1,0 +1,6 @@
+{
+    "SQLITE_DATABASE" : "external_device_data.db",
+    "TABLE_NAME": "secret_strings_table",
+    "DATE_COLUMN_NAME": "date",
+    "SECRET_STRING_COLUMN_NAME": "secret_string"
+}

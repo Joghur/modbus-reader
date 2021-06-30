@@ -1,0 +1,8 @@
+{
+    "OPTIONS_SWITCHER" : {
+        "-h": "help",
+        "--help": "help"
+    },
+    "SHORTHAND_OPTIONS" : "h",
+    "FULL_OPTIONS" :  ["help"] 
+}
